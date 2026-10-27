@@ -1,0 +1,4 @@
+623c8c404b3295ae26bd287e6e75d901067a4946376e5df0e2cec5659ef0fcff  H0M-Nexus-Android-0.2.0-debug.apk
+7dcfbbb2f07a5336d6bbfa25650a7a914bc3a74bc44c04607554aa50461ab9da  H0M-Nexus-Android-0.2.0-release-unsigned.aab
+4f537e41909a6e79f49c739f50a82d0ab2038d06f5149576814dd3766b5842e3  H0M-Nexus-Windows-0.2.0-Setup-x64.exe
+9cc6a920e4c02e1f33f72085bf3b0144925cb8e216b51dcd2496555dfce0e2bb  H0M-Nexus-Windows-0.2.0-portable.zip
