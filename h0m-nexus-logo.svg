@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">H0M NEXUS premium mark</title>
+  <desc id="desc">A luminous three dimensional H engineering monogram for H0M NEXUS</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08172a"/><stop offset=".55" stop-color="#06101e"/><stop offset="1" stop-color="#101b44"/></linearGradient>
+    <linearGradient id="hFace" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fdff"/><stop offset=".36" stop-color="#b5e9ff"/><stop offset=".7" stop-color="#35c8ff"/><stop offset="1" stop-color="#536aff"/></linearGradient>
+    <linearGradient id="hEdge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6dffff"/><stop offset="1" stop-color="#1465ef"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#35c8ff" stop-opacity=".52"/><stop offset=".55" stop-color="#1765ef" stop-opacity=".14"/><stop offset="1" stop-color="#06101e" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="640" height="640" rx="148" fill="url(#bg)"/>
+  <circle cx="320" cy="296" r="285" fill="url(#halo)"/>
+  <g fill="none" stroke-linecap="round" filter="url(#glow)" opacity=".8">
+    <ellipse cx="320" cy="300" rx="258" ry="108" stroke="#1e8dff" stroke-width="7" transform="rotate(-18 320 300)"/>
+    <ellipse cx="320" cy="300" rx="220" ry="86" stroke="#39ddff" stroke-width="3" transform="rotate(27 320 300)"/>
+  </g>
+  <path d="M180 142h72v121h136V142h72v267h-72V330H252v79h-72z" fill="#0b3d9a" opacity=".72" transform="translate(15 19)"/>
+  <path d="M180 142h72v121h136V142h72v267h-72V330H252v79h-72z" fill="url(#hFace)" stroke="url(#hEdge)" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M180 142l15-18h72l-15 18zM388 142l15-18h72l-15 18zM388 263l15-18h72l-15 18zM180 409l15-18h72l-15 18z" fill="#8eeaff" opacity=".72"/>
+  <path d="M156 464h328" stroke="#ffffff" stroke-width="8" opacity=".9" stroke-linecap="round"/>
+  <circle cx="156" cy="464" r="13" fill="#35c8ff" filter="url(#glow)"/><circle cx="484" cy="464" r="13" fill="#35c8ff" filter="url(#glow)"/>
+  <text x="320" y="548" text-anchor="middle" fill="#f4fbff" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="800" letter-spacing="12">H0M</text>
+</svg>
