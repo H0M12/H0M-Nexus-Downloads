@@ -1,3 +1,10 @@
+# Windows 0.1.1 preview
+dd43c3785a0a4730d68d2458bc6d58f1bd1445a6247a7961ab7cd0b8a5c5ae07  H0M.NEXUS-Setup-0.1.1-ia32.exe
+1cf5d289d13f8410296e490b81cc4c440d79a1a8eea7fcd43b9bab3b5b8c94e2  H0M.NEXUS-Portable-0.1.1-ia32.exe
+db1777355848b841565829a1f3301ac6b22da619fefe43bb266c302fc6fae87c  H0M.NEXUS-Setup-0.1.1-x64.exe
+452bc253c38272c5a97030d0e6bceac475ca7b6b1afbdba8bc46ba828be49f2b  H0M.NEXUS-Portable-0.1.1-x64.exe
+
+# Earlier 0.2.0 preview assets (not part of 0.1.1)
 623c8c404b3295ae26bd287e6e75d901067a4946376e5df0e2cec5659ef0fcff  H0M-Nexus-Android-0.2.0-debug.apk
 7dcfbbb2f07a5336d6bbfa25650a7a914bc3a74bc44c04607554aa50461ab9da  H0M-Nexus-Android-0.2.0-release-unsigned.aab
 4f537e41909a6e79f49c739f50a82d0ab2038d06f5149576814dd3766b5842e3  H0M-Nexus-Windows-0.2.0-Setup-x64.exe

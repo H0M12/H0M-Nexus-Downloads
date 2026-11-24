@@ -1,3 +1,7 @@
+> **معاينة Windows 0.1.1:** [صفحة التنزيل](https://h0m12.github.io/H0M-Nexus-Downloads/) تعرض ملفات Setup وPortable العامة لكل من x86 وx64. نُشرت [ملاحظات الإصدار وبصماته](https://github.com/H0M12/H0M-Nexus-Downloads/releases/tag/v0.1.1-windows-preview). بُنيت الحزم على Linux فقط ولم تُختبر على Windows حقيقي؛ هي غير موقعة وقد يظهر SmartScreen. بعض الأدوات تشخيصية أو تفتح أدوات النظام ولا تنفذ إصلاحًا مباشرًا، ولا يتضمن هذا الإصدار SFC/DISM. المحتوى التالي يتناول معاينة 0.2.0 السابقة ولا يصف حزم 0.1.1.
+
+---
+
 <div align="center">
 <img src="icon.png" alt="H0M Nexus" width="144" height="144">
 
